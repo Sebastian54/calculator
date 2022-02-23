@@ -1,0 +1,12 @@
+H:\Unit 12\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\Unit 12\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\Unit 12\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\Unit 12\Calculator\Calculator\bin\Debug\Calculator.xml
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.xml
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\Unit 12\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
